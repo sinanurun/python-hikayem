@@ -1,4 +1,4 @@
-degisken1 = int(input())
+degisken1 = int(input("bir sayı giriniz"))
 print(degisken1)
 print(type(degisken1))
 
@@ -9,5 +9,3 @@ print(type(degisken2))
 degisken3 = float(input())
 print(degisken3)
 print(type(degisken3))
-
-

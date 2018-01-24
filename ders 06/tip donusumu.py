@@ -13,5 +13,3 @@ print(type(isim))
 nick = "mahmut01"
 print(nick)
 print(type(nick))
-
-
